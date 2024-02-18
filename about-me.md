@@ -1,35 +1,54 @@
-# Professional Journey README
+# Industrial Engineer | Data Scientist
+Welcome to my Profile! 👋 I'm Nicolas, a passionate data scientist with a diverse background in industrial engineering, business intelligence, and data engineering. I have accumulated experience in executing data projects, showcasing proficiency in various areas such as exploratory data analysis, data processing, and the creation of machine learning models. Additionally, I specialize in frontend software development using Type/Javascript and React.
 
-Welcome to my Profile! 👋 I'm Nico, a passionate data scientist with a diverse background in industrial engineering, business intelligence, and data engineering. Below, I've outlined my professional journey so far:
+## Skills & Tech Stack
+- Data Science: Exploratory Data Analysis, classical Machine Learning techniques, Recommendation Systems, Computer Vision, LLMs, RAG pipelines, neural networks and deep learning techniques.
+- Python:  visualization, data processing and modelling, as well as optimization and parallelization, Pytorch, Tensorflow, scikit-learn, Pandas, Matplotlib, Langchain, LLMs, ChromaDB, Streamlit
+- Tools and frameworks:  Git, Docker, Jenkins, Terraform, Grafana, Prometheus
+- Data Engineering:  SQL, ETLs modelling, Data Architecture in various DBs such as Exasol and Postgres
+- Cloud: AWS, compute and storage services
+- Backend Development: FastAPI
+- Frontend development: HTML, CSS, Type/Javascript, React (Ant D, MUI) , React Native
+
+Below, I've outlined my professional journey so far:
 
 ## Education
-- Completed a Master's degree in Industrial Engineering at ITBA, Buenos Aires Institute of Technology. 
+- Completed a Master's degree in Industrial Engineering at ITBA, Buenos Aires Institute of Technology.
+- Certified AWS Cloud Practitioner
+- ⁠Agile Project Management (UTN)
 
 ## Work Experience
 
 ### Air Liquide (Role: Data Analyst)
-- Developed unified dashboard reports using Power BI, Excel Macros, for the entire sales team.
+- Developed unified dashboard reports using Power BI, Excel Macros, for the entire sales team of the country (🇦🇷).
 
 ### Wabi Project (Role: Product Owner)
-- Contributed to a Coca Cola-funded startup, gaining leadership skills, working in agile methods and  for a B2B digital grocery shopping platform.
-
-### Personal Projects
-- Explored Python during university days, initiating small AI projects like a business selling pictures painted with Neural Style Transfer.
+- Part of the development team for a B2B digital grocery shopping platform, of a Coca Cola-funded startup, gaining leadership skills, working in agile methodology and prioritizing backlog. 
 
 ### Business Intelligence Manager
 - Took on the role of Business Intelligence Manager, enhancing Python skills for data analysis and optimizing processes.
-- Designed and implemented automations using Apache Airflow for topics including fraud detection, revenue analysis, and marketing KPIs.
+- Process automated with Apache Airflow for topics including fraud detection, revenue analysis, and marketing KPIs.
 
 ### Memorable (Role: AI Residence)
-- Participated in a one-month program, training and developing computer vision models on the cloud to enhance cognitive impact in images for effective advertisements.
+- Participated in a one-month program, supporting in the development of computer vision models on the cloud to enhance cognitive impact in images for effective advertisements.
 
-### Check24 (Role: Data Engineer / Data Scientist)
-- Involved in various backend and frontend tasks, contributing to projects like the Next Product To Buy Recommender System and predicting financial strength and brand affinity for precise mailing campaigns.
-- Worked on front end tasks for an internal Customer Agent Tool using Javascript and React.
+### Check24 (Role: Data Engineer / Data Scientist / Frontend Developer)
+- Involved in various backend and frontend tasks, contributing to projects like a "Next Product To Buy" Recommender System, predicting the financial strength for precise mailing campaigns and brand affinity for an improved ranking system.
+- Worked on front end tasks for an internal Customer Agent Tool using Typescript and React.
 
 ### Five1 (Current Role: Data Scientist)
 - Certified as a Cloud Practitioner in AWS.
 - Engaged in various data science projects in as consultant, focusing on ML-related tasks, delivering solutions to clients.
+
+## Projects
+
+###
+
+### Memorable (Role: Co-Founder)
+- Founded a small business selling digital art done with Neural Style Transfer.
+
+### The Legal Compass (Role: Co-Founder)
+- Leveraging LLMs, developed an gen AI chatbot enhanced by using RAG pipelines in order to deliver through factual knowledge, a more precise and agile methodology of work for lawyers. 
 
 ## Current Focus
 Revolves around ML-related projects, driven by the endless possibilities it offers. I'm particularly fascinated by advancements in Gen AI.

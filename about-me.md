@@ -47,7 +47,7 @@ Below, I've outlined my professional journey so far:
 ### The Legal Compass @ Co-Founder
 - Leveraging LLMs, developed an gen AI chatbot enhanced by using RAG pipelines in order to deliver through factual knowledge, a more precise and agile methodology of work for lawyers. 
 
-### Memorable @ Co-Founder
+### Malerei @ Co-Founder
 - Founded a small business selling digital art done with Neural Style Transfer.
 
 ## Current Focus

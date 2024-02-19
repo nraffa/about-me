@@ -1,5 +1,7 @@
 # Industrial Engineer | Data Scientist
-Welcome to my Profile! 👋 I'm Nicolas, a passionate data scientist with a diverse background in industrial engineering, business intelligence, and data engineering. I have accumulated experience in executing data projects, showcasing proficiency in various areas such as exploratory data analysis, data processing, and the creation of machine learning models. Additionally, I specialize in frontend software development using Type/Javascript and React.
+Welcome to my Profile! 👋
+
+I'm Nicolas, a passionate data scientist with a diverse background in industrial engineering, business intelligence, data engineering and software development. I have accumulated experience in executing data projects, showcasing proficiency in various areas such as exploratory data analysis, data processing, and the creation of machine learning models. Additionally, I specialize in frontend software development using Type/Javascript and React.
 
 ## Skills & Tech Stack
 - Data Science: Exploratory Data Analysis, classical Machine Learning techniques, Recommendation Systems, Computer Vision, LLMs, RAG pipelines, neural networks and deep learning techniques.
@@ -19,30 +21,28 @@ Below, I've outlined my professional journey so far:
 
 ## Work Experience
 
-### Air Liquide (Role: Data Analyst)
-- Developed unified dashboard reports using Power BI, Excel Macros, for the entire sales team of the country (🇦🇷).
-
-### Wabi Project (Role: Product Owner)
-- Part of the development team for a B2B digital grocery shopping platform, of a Coca Cola-funded startup, gaining leadership skills, working in agile methodology and prioritizing backlog. 
-
-### Business Intelligence Manager
-- Took on the role of Business Intelligence Manager, enhancing Python skills for data analysis and optimizing processes.
-- Process automated with Apache Airflow for topics including fraud detection, revenue analysis, and marketing KPIs.
-
-### Memorable (Role: AI Residence)
-- Participated in a one-month program, supporting in the development of computer vision models on the cloud to enhance cognitive impact in images for effective advertisements.
-
-### Check24 (Role: Data Engineer / Data Scientist / Frontend Developer)
-- Involved in various backend and frontend tasks, contributing to projects like a "Next Product To Buy" Recommender System, predicting the financial strength for precise mailing campaigns and brand affinity for an improved ranking system.
-- Worked on front end tasks for an internal Customer Agent Tool using Typescript and React.
-
 ### Five1 (Current Role: Data Scientist)
 - Certified as a Cloud Practitioner in AWS.
 - Engaged in various data science projects in as consultant, focusing on ML-related tasks, delivering solutions to clients.
 
-## Projects
+### Check24 (Role: Data Engineer / Data Scientist / Frontend Developer)
+- Involved in various backend and frontend tasks, contributing to projects like a "Next Product To Buy" Recommender System, predicting the financial strength of clients for precise mailing campaigns and the brand affinity for an improved ranking system.
+- Worked on front-end tasks for an internal Customer Agent Tool using Typescript and React.
 
-###
+### Memorable (Role: AI Residence)
+- Participated in a one-month program, supporting in the development of computer vision models on the cloud to enhance cognitive impact in images for effective advertisements.
+
+### Wabi Project (Role: Business Intelligence Manager) 
+- Took on the role of Business Intelligence Manager, enhancing Python skills for data analysis and optimizing processes.
+- Reports automated with Apache Airflow for topics including fraud detection, revenue analysis, and marketing KPIs.
+
+### Wabi Project (Role: Product Owner)
+- Participated in the development team for a B2B digital grocery shopping platform, of a Coca Cola-funded startup, as Product Owner, gaining leadership skills, working in agile methodology and prioritizing the backlog. 
+
+### Air Liquide (Role: Data Analyst)
+- Developed unified dashboard reports using Power BI, Excel Macros, for the entire sales team of the country (🇦🇷).
+
+## Projects
 
 ### Memorable (Role: Co-Founder)
 - Founded a small business selling digital art done with Neural Style Transfer.

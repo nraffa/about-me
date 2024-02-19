@@ -44,15 +44,15 @@ Below, I've outlined my professional journey so far:
 
 ## Projects
 
-### The Legal Compass (Role: Co-Founder)
+### The Legal Compass @ Co-Founder
 - Leveraging LLMs, developed an gen AI chatbot enhanced by using RAG pipelines in order to deliver through factual knowledge, a more precise and agile methodology of work for lawyers. 
 
-### Memorable (Role: Co-Founder)
+### Memorable @ Co-Founder
 - Founded a small business selling digital art done with Neural Style Transfer.
 
 ## Current Focus
 Revolves around ML-related projects, driven by the endless possibilities it offers. I'm particularly fascinated by advancements in Gen AI.
 
-Feel free to explore my repositories and reach out for collaboration or discussions related to data science, machine learning, or any exciting project ideas! 🚀
+Feel free to reach out for collaboration, discussions or work related to data science, machine learning, or any exciting project ideas! 🚀
 
 *Note: This README serves as a snapshot of my professional journey and will be periodically updated.*

@@ -1,0 +1,87 @@
+/* Reset some default styles */
+•⁠  ⁠{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    background: white;
+  }
+  
+  header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3%;
+  }
+
+  .book {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .logo {
+    size: 5%;
+    font-weight: bold;
+  }
+  .img {
+    width: 20%;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-left: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+  }
+  
+  .main-heading {
+    text-align: center;
+  }
+  
+  .main-heading h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* Simple hover effect for button */
+  button:hover {
+    background: #f0f0f0;
+  }
+  
+  /* Adjustments for mobile screens */
+  @media (max-width: 768px) {
+    body{
+      margin-top: 35%;
+    }
+    .main-heading h1 {
+      font-size: 32px;
+    }
+  
+    button {
+      font-size: 14px;
+    }
+  }  

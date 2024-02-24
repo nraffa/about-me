@@ -1,5 +1,6 @@
 <a href="https://www.linkedin.com/in/nraffa/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="20"></a>
-<a href="mailito:nraffapirra@gmail.com"><img src="https://www.svgrepo.com/show/296967/email-mail.svg" width="30" height="20"></a>
+<a href="mailito:nraffapirra@gmail.com"><img src="https://www.svgrepo.com/show/296967/email-mail.svg" width="30" height="20"></a><link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/nraffapirra/ask-me-anything'});return false;"><img src="https://www.svgrepo.com/show/357252/video-call.svg" width="30" height="20"></a>
+<!-- Calendly link widget end -->
 
 # Industrial Engineer | Data Scientist
 Welcome to my Profile! 👋

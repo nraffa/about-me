@@ -6,7 +6,7 @@
   }
   
   body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'open sans';
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,7 +50,7 @@
 }
 
 .navBar nav a:not(:last-child) {
-  margin-right: 10px;
+  margin-right: 30%;
 }
 
   nav ul {

@@ -29,6 +29,12 @@
     text-decoration: none;
     color: black;
   }
+
+  .navText{
+    text-decoration: none;
+    color: black;
+    padding-left:1%;
+  }
   
   .logo {
     size: 5%;
@@ -37,6 +43,16 @@
   .img {
     width: 20%;
   }
+
+.navBar nav{
+  display:flex;
+  justify-content: space-around;
+}
+
+.navBar nav a:not(:last-child) {
+  margin-right: 10px;
+}
+
   nav ul {
     list-style: none;
     display: flex;

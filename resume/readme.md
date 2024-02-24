@@ -3,6 +3,10 @@
         display: flex;
         justify-content: space-between;
     }
+    .home{
+            text-decoration: none;
+    color: black;
+    }
 
 </style>
 
@@ -12,9 +16,8 @@
         <a href="mailto:nraffapirra@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/533200/mail-alt-3.svg" width="30" height="20"></a>
         <a href="https://calendly.com/nraffapirra/ask-me-anything" target="_blank"><img src="https://www.svgrepo.com/show/357252/video-call.svg" width="30" height="20"></a>
     </div>
-    <a href="https://nicolasraffapirra.com" >Home</a>
+    <a href="https://nicolasraffapirra.com" class="home" >Home</a>
 </div>
-<br>
 <br>
 
 # Industrial Engineer | Data Scientist

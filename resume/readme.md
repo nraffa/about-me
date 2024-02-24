@@ -1,4 +1,6 @@
 <a href="https://www.linkedin.com/in/nraffa/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="20"></a>
+<a href="mailito:nraffapirra@gmail.com"><img src="https://www.svgrepo.com/show/296967/email-mail.svg" width="30" height="20"></a>
+
 # Industrial Engineer | Data Scientist
 Welcome to my Profile! 👋
 

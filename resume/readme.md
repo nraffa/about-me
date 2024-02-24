@@ -14,6 +14,8 @@
     </div>
     <a href="https://nicolasraffapirra.com" >Home</a>
 </div>
+<br>
+<br>
 
 # Industrial Engineer | Data Scientist
 Welcome to my Profile! 👋

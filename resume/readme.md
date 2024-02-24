@@ -8,8 +8,8 @@
 
 <div class="flex-container">
     <div>
-        <a href="https://www.linkedin.com/in/nraffa/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="20"></a>
-        <a href="mailto:nraffapirra@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/296967/email-mail.svg" width="30" height="20"></a>
+        <a href="https://www.linkedin.com/in/nraffa/" target="_blank"><img src="https://www.svgrepo.com/show/521725/linkedin.svg" width="30" height="20"></a>
+        <a href="mailto:nraffapirra@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/533200/mail-alt-3.svg" width="30" height="20"></a>
         <a href="https://calendly.com/nraffapirra/ask-me-anything" target="_blank"><img src="https://www.svgrepo.com/show/357252/video-call.svg" width="30" height="20"></a>
     </div>
     <a href="https://nicolasraffapirra.com" >Home</a>

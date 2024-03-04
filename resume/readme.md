@@ -15,6 +15,7 @@
         <a href="https://www.linkedin.com/in/nraffa/" target="_blank"><img src="https://www.svgrepo.com/show/521725/linkedin.svg" width="30" height="20"></a>
         <a href="mailto:nraffapirra@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/533200/mail-alt-3.svg" width="30" height="20"></a>
         <a href="https://calendly.com/nraffapirra/ask-me-anything" target="_blank"><img src="https://www.svgrepo.com/show/357252/video-call.svg" width="30" height="20"></a>
+        <a href="https://www.buymeacoffee.com/nicolasraffapirra" target="_blank"><img src="https://www.svgrepo.com/show/530366/coffee.svg" width="30" height="20"></a>
     </div>
     <a href="https://nicolasraffapirra.com" class="home" >Home</a>
 </div>

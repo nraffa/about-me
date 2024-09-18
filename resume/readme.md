@@ -27,11 +27,11 @@ Welcome to my Profile! 👋
 I'm Nicolas, a passionate data scientist with a diverse background in industrial engineering, business intelligence, data engineering and software development. I have accumulated experience in executing data projects, showcasing proficiency in various areas such as exploratory data analysis, data processing, and the creation of machine learning models. Additionally, I specialize in frontend software development using Type/Javascript and React.
 
 ## Skills & Tech Stack
-- Data Science: Exploratory Data Analysis, classical Machine Learning techniques, Recommendation Systems, Computer Vision, LLMs, RAG pipelines, neural networks and deep learning techniques.
-- Python:  visualization, data processing and modelling, as well as optimization and parallelization, Pytorch, Tensorflow, scikit-learn, Pandas, Matplotlib, Langchain, LLMs, ChromaDB, Streamlit
+- Data Science: Exploratory Data Analysis, classical Machine Learning techniques, Recommendation Systems, Computer Vision, deep learning, LLMs, VLMs, RAG pipelines, Multi-Agentic Systems, Fine-Tuning.
+- Python:  visualization, data processing and modelling, as well as optimization and parallelization, Pytorch, Tensorflow, scikit-learn, Pandas, Matplotlib, Langchain, Langgraph, LLMs, ChromaDB, Streamlit, Chainlit
 - Tools and frameworks:  Git, Docker, Jenkins, Terraform, Grafana, Prometheus
 - Data Engineering:  SQL, ETLs modelling, Data Architecture in various DBs such as Exasol and Postgres
-- Cloud: AWS, compute and storage services
+- Cloud: AWS and Azure cloud services
 - Backend Development: FastAPI
 - Frontend development: HTML, CSS, Type/Javascript, React (Ant D, MUI) , React Native
 
@@ -40,12 +40,14 @@ Below, I've outlined my professional journey so far:
 ## Education
 - Completed a Master's degree in Industrial Engineering at ITBA, Buenos Aires Institute of Technology.
 - Certified AWS Cloud Practitioner
+- AWS Machine Learning Specialty (WIP)
 - ⁠Agile Project Management (UTN)
 
 ## Work Experience
 
 ### Five1 @ Data Scientist (Feb. 2024 - Present)
-- Certified as a Cloud Practitioner in AWS.
+- Leading the topic Generative AI in the company.
+- Currently working in multiple Generative AI projects, focus points on advanced RAG Systems and Multi-Agentic designed applications using Langgraph.
 - Engaged in various data science projects in as consultant, focusing on ML-related tasks, delivering solutions to clients.
 
 ### Check24 @ Data Engineer / Data Scientist / Frontend Developer (June 2022 - Nov. 2023)
@@ -67,8 +69,12 @@ Below, I've outlined my professional journey so far:
 
 ## Projects
 
+## Archilo by Solvit @Co-Founder
+- Leveraging LLMs, VLMs and Agents, developed a genAI application for automated invoice processing, with high flexibility for the invoice format and structure.
+- [Have a look!](https://archilo.besolvit.com/)
+
 ### The Legal Compass @ Co-Founder
-- Leveraging LLMs, developed an gen AI chatbot enhanced by using RAG pipelines in order to deliver through factual knowledge, a more precise and agile methodology of work for lawyers. 
+- Leveraging LLMs, developed a gen AI chatbot enhanced by using RAG pipelines in order to deliver through factual knowledge, a more precise and agile methodology of work for lawyers. 
 
 ### Malerei @ Co-Founder
 - Founded a small business selling digital art done with Neural Style Transfer.

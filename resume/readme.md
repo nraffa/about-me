@@ -47,6 +47,7 @@ Below, I've outlined my professional journey so far:
 
 ### Five1 @ Data Scientist (Feb. 2024 - Present)
 - Leading the topic Generative AI in the company.
+- Generated and conducted Workshops for clients as Pre-Sales activity, leading to the acquirement of projects for the company. 
 - Currently working in multiple Generative AI projects, focus points on advanced RAG Systems and Multi-Agentic designed applications using Langgraph.
 - Engaged in various data science projects in as consultant, focusing on ML-related tasks, delivering solutions to clients.
 
@@ -69,12 +70,14 @@ Below, I've outlined my professional journey so far:
 
 ## Projects
 
-## Archilo by Solvit @Co-Founder
+### Archilo by [Solvit](https://besolvit.com/) @Co-Founder
 - Leveraging LLMs, VLMs and Agents, developed a genAI application for automated invoice processing, with high flexibility for the invoice format and structure.
 - [Have a look!](https://archilo.besolvit.com/)
+- [Solvit - AI Tailored Solutions](https://besolvit.com/)
 
 ### The Legal Compass @ Co-Founder
-- Leveraging LLMs, developed a gen AI chatbot enhanced by using RAG pipelines in order to deliver through factual knowledge, a more precise and agile methodology of work for lawyers. 
+- Leveraging LLMs, developed a gen AI chatbot enhanced by using RAG pipelines in order to deliver through factual knowledge, a more precise and agile methodology of work for lawyers.
+- [Have a look!](https://brujula-legal.my.canva.site/en)
 
 ### Malerei @ Co-Founder
 - Founded a small business selling digital art done with Neural Style Transfer.

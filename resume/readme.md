@@ -24,7 +24,10 @@
 # Industrial Engineer | Data Scientist
 Welcome to my Profile! 👋
 
-I'm Nicolas, a passionate data scientist with a diverse background in industrial engineering, business intelligence, data engineering and software development. I have accumulated experience in executing data projects, showcasing proficiency in various areas such as exploratory data analysis, data processing, and the creation of machine learning models. Additionally, I specialize in frontend software development using Type/Javascript and React.
+Have a look at my latest [project](https://archilo.besolvit.com/)! If interested, feel free to contact me :) 
+
+I'm Nicolas, a passionate data scientist with a diverse background in industrial engineering, business intelligence, data engineering and software development. I have accumulated experience in executing data projects, showcasing proficiency in various areas such as exploratory data analysis, data processing, and the creation of machine learning models. Currenlty I am leading the development of Generative AI projects in Five1. Additionally, I specialize in frontend software development using Type/Javascript and React.
+
 
 ## Skills & Tech Stack
 - Data Science: Exploratory Data Analysis, classical Machine Learning techniques, Recommendation Systems, Computer Vision, deep learning, LLMs, VLMs, RAG pipelines, Multi-Agentic Systems, Fine-Tuning.

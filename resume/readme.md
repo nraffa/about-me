@@ -45,7 +45,7 @@ Below, I've outlined my professional journey so far:
 
 ## Work Experience
 
-### Five1 @ Data Scientist (Feb. 2024 - Present)
+### Five1 @ Data Scientist | GenAI Technical Lead (Feb. 2024 - Present)
 - Leading the topic Generative AI in the company.
 - Generated and conducted Workshops for clients as Pre-Sales activity, leading to the acquirement of projects for the company. 
 - Currently working in multiple Generative AI projects, focus points on advanced RAG Systems and Multi-Agentic designed applications using Langgraph.
